@@ -16,4 +16,4 @@ To identify patterns, trends, distributions, and relationships between variables
 - Chairs recorded the highest quantity sold. 
 
 ## Files included 
-- EDA.Summary.pn
+- EDA.Summary.png
